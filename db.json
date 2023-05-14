@@ -1,0 +1,140 @@
+{
+  "Reclutas": [
+    {
+      "nombre": "Ivan",
+      "edad": 23,
+      "telefono": "3024263272",
+      "mail": "navi.garces24@gmail.com",
+      "direccion": "Calle 18#32-06",
+      "fechaNacimiento": "1999-12-24T09:50",
+      "numeroId": "1003124205",
+      "fechaIngreso": "2023-01-23T14:15",
+      "TeamId": "1",
+      "SkillId": "1",
+      "id": 1
+    },
+    {
+      "nombre": "Diego",
+      "edad": 23,
+      "telefono": "3015256255",
+      "mail": "diego@gmail.com",
+      "direccion": "San Alonso",
+      "fechaNacimiento": "1999-07-26T05:00",
+      "numeroId": "11111111",
+      "fechaIngreso": "2023-01-23T14:00",
+      "TeamId": "2",
+      "SkillId": "2",
+      "id": 2
+    },
+    {
+      "nombre": "Valerie",
+      "edad": 16,
+      "telefono": "302116651",
+      "mail": "valerie.campus@hotmail.com",
+      "direccion": "Norte",
+      "fechaNacimiento": "2006-08-09T17:01",
+      "numeroId": "0002",
+      "fechaIngreso": "2023-01-23T14:00",
+      "TeamId": "3",
+      "SkillId": "3",
+      "id": 3
+    },
+    {
+      "nombre": "Daniela",
+      "edad": 17,
+      "telefono": "322616",
+      "mail": "Daniela@outlook.es",
+      "direccion": "Puerto Colombia",
+      "fechaNacimiento": "2005-03-09T07:03",
+      "numeroId": "0003",
+      "fechaIngreso": "2023-01-23T14:03",
+      "TeamId": "3",
+      "SkillId": "3",
+      "id": 4
+    },
+    {
+      "nombre": "Nicolas",
+      "edad": 25,
+      "telefono": "302156496",
+      "mail": "Nicolas@gmail.com",
+      "direccion": "Piedecuesta",
+      "fechaNacimiento": "1997-11-19T19:44",
+      "numeroId": "0004",
+      "fechaIngreso": "2023-01-23T14:45",
+      "TeamId": "2",
+      "SkillId": "2",
+      "id": 5
+    },
+    {
+      "nombre": "Alguien",
+      "edad": 15,
+      "telefono": "30000000",
+      "mail": "Alguien@gmail.com",
+      "direccion": "Lejos",
+      "fechaNacimiento": "2007-08-15T19:12",
+      "numeroId": "0004",
+      "fechaIngreso": "2023-04-06T07:00",
+      "TeamId": "1",
+      "SkillId": "1",
+      "id": 6
+    },
+    {
+      "nombre": "Carlos",
+      "edad": 25,
+      "telefono": "3155611651",
+      "mail": "carl@gmail.com",
+      "direccion": "Zona Franca",
+      "fechaNacimiento": "2023-05-09T08:55",
+      "numeroId": "0005",
+      "fechaIngreso": "2023-05-09T10:00",
+      "TeamId": "3",
+      "SkillId": "1",
+      "id": 7
+    }
+  ],
+  "Team": [
+    {
+      "id": "1",
+      "nombre": "Sputnik",
+      "trainer_asociado": "Carlos"
+    },
+    {
+      "id": "2",
+      "nombre": "Apolo",
+      "trainer_asociado": "Sergio"
+    },
+    {
+      "id": "3",
+      "nombre": "Artemis",
+      "trainer_asociado": "Andres"
+    }
+  ],
+  "Skill": [
+    {
+      "id": "1",
+      "nombre": "JavaScript"
+    },
+    {
+      "id": "2",
+      "nombre": "CSS"
+    },
+    {
+      "id": "3",
+      "nombre": "Python"
+    }
+  ],
+  "Modulo_Skill": [
+    {
+      "id": "1",
+      "nombre": "",
+      "id_Skill": ""
+    }
+  ],
+  "Evaluacion": [
+    {
+      "Reclutas_Id": "",
+      "id_modulo": "",
+      "nota": ""
+    }
+  ]
+}
